@@ -1,3 +1,3 @@
 # IBM-DS-Capstone
 
-Hello to the first Python rep
+Hello to the IBM Data Science Capstone rep
